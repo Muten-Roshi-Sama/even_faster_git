@@ -1,0 +1,7 @@
+[alias]
+    sw = switch
+    co = checkout
+    cim = commit -m
+    st = status
+    br = branch
+    log1 = log --oneline
