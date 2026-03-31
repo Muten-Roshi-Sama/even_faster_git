@@ -5,3 +5,4 @@
     st = status
     br = branch
     log1 = log --oneline
+    push origin = po
